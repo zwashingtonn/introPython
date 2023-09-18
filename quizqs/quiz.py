@@ -4,7 +4,8 @@ a varible is like a closet for data values.
 operateros we learned about in class arithmatics addition, subtraction, and multiplication 1 is a+b , 2 is a-b 3 a*b
 # a situation where you would use each one.  
 1. i have 2 bunnies a and 3 cats b, whats the total of how many animals I have. 
-2. I have 1 aariz and 2 josish, what is 
+2. I have 1 aariz and 2 josish, what is the total amount all together. 
+3. I have one pink and 3 red, how many colors will i have in total.
 # 3. Describe the difference between camal case and pascal case.
 camel case is the second word of a varible name, every word after starts with a capital letter.
 # 4. Which operator is being used in the example below
