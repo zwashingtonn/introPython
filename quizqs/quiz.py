@@ -7,7 +7,7 @@ operateros we learned about in class arithmatics addition, subtraction, and mult
 2. I have 1 aariz and 2 josish, what is the total amount all together. 
 3. I have one pink and 3 red, how many colors will i have in total.
 # 3. Describe the difference between camal case and pascal case.
-camel case is the second word of a varible name, every word after starts with a capital letter.
+camel case is the second word of a varible name, every word after starts with a capital letter., Pascal case is every word is capitilized. 
 # 4. Which operator is being used in the example below
 numberOfApples = 10
 numberOfOranges = 12
