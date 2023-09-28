@@ -7,7 +7,7 @@
 if is if it is correct u will get a certain text but if it is anything else(else) it will be incorrect.
 
 # 3. write a simple conditional state using a comparision operator(greater than, less than, etc. )
-arianagrande money = 262.22
+ money = 262.22
 costoflashes = 189
 
 # 4. Write a conditional statement for food in the refridgerator.
@@ -22,11 +22,12 @@ foodinfrige = 5
 foodneeded = 2
 def foodinfrige():
     foodinfrige = False
-    if foodinfrige == true:
+    if foodinfrige == True
      print (' time to cook')
 else print (' no food!')
 
-or 
+foodinfrige (False)
+
 
 
 def frige():
@@ -39,4 +40,11 @@ def frige():
 # your function should have a parameter that accepts an integer. In your function
 # use a conditional statement to determine if you need to order more cereal.
 # If there is more than 10 boxes, print "inventory full", else if there are less than 
-# 10 boxes print "we need to order more cereal".
+# 10 boxes print "we need to order more cereal".    
+def cereal_inventory(cereal):
+      current_cereal_inventory= 11
+      if cereal >= current_cereal_inventory
+         print("inventory full")
+      else :
+         print ('Need to order more cereal.')
+cereal_inventory(10)
