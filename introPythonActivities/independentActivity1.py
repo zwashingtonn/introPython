@@ -52,3 +52,18 @@ shopping_cart = ['notebook', 'pens','tape','mousepad']
 shopping_cart.append('pencils')
 
 print(shopping_cart)
+
+mail=29
+subtraction_number=10
+
+def deletemail():
+    print('you are about to delete your mail")
+    mail - 10
+    print('you have the following message in your mailbox')
+    print(mail)
+
+delete () mail
+
+          if mail > 20: 
+    deleteMail()
+          
