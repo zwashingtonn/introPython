@@ -40,17 +40,17 @@ calculation()
 # hint you will need to look into using conditional statements
 
 def elevator():
-    wut_floor = int(input('what floor would u like to go too? '))
+    wut_floor = int(input('what floor do u want to go to? '))
 
     if str(wut_floor) == 101:
-        print('you are going to the boys latin office. ')
+        print('you are going to the office. ')
     
     elif wut_floor == 203:
         print('you are going to the gym')
     elif wut_floor == 101:
-        print('you are going to the boys latin office. ')
+        print('you are going to the office. ')
     else:
-        print('That floor dosnt exist please enter a valid floor number. ')
+        print('That floor does not exist please enter a correct floor number. ')
 
 elevator()
 
