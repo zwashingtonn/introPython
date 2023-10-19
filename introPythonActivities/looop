@@ -26,3 +26,15 @@ Light_for_stoplight=
 go_Light=30
 slowdown_Light=30
 stop_Light=30
+while Light_for_stoplight >= 30:
+
+    if stop_Light >= 30:
+        print('Change light')
+
+
+
+
+
+
+# 3. BONUS: add an additional condition that will change the light to yellow for 5 seconds before the
+# next light change. 
