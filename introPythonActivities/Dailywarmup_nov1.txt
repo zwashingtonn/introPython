@@ -1,1 +1,1 @@
-
+Software code tracking and management is referred to as version control, or source control. Software teams can better manage source code changes over time with the use of version control systems
