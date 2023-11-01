@@ -1,1 +1,3 @@
-Software code tracking and management is referred to as version control, or source control. Software teams can better manage source code changes over time with the use of version control systems
+Software code tracking and management is referred to as version control or source control. Software teams can better manage source code changes over time with the use of version control systems
+
+3 examples that can be carried down are a Google Doc, a project, and on Roblox you can carry down your progress of a game and let someone else work on it.
