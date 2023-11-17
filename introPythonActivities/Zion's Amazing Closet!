@@ -1,0 +1,7 @@
+ def clothscloset
+      clothsincloset = Princess Zion
+      if clothincloset == Princess Zion
+        print (' Welcome, Princess Zion')
+  else print ('Please enter a correct name')
+
+       
