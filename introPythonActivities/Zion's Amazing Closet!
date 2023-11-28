@@ -1,7 +1,43 @@
- def clothscloset
-      clothsincloset = Princess Zion
-      if clothincloset == Princess Zion
-        print (' Welcome, Princess Zion')
-  else print ('Please enter a correct name')
+user_mood= input('what is your mood: ')
 
-       
+while user_item != 'mad':
+    print('that not good')
+    user_item= input('what is your mood:')
+
+print('Awwe so sorry!  ') 
+
+user_item= input('what is your mood: ')
+
+while user_item != 'sad':
+    print('thats not good')
+    user_item= input('what is your mood:')
+
+print('Awwe what happened?) 
+
+while user_item != 'happy':
+    print('wow')
+    user_item= input('what is your mood:')
+
+print('Thats wonderful  ')
+
+user_clothes= input('choose your clothes: ')
+
+while user_clothes != 'dress':
+    print('thats a good choice')
+    user_item= input('choose your clothes:')
+
+print('Good choice') 
+
+user_item= input('what is your mood: ')
+
+while user_item != 'shirt':
+    print('thats a good choice')
+    user_item= input('choose your clothes:')
+
+print('Good choice') 
+
+while user_item != 'pants':
+    print('thats a good choice')
+    user_item= input(''choose your clothes:')
+
+print('Good choice')
