@@ -1,0 +1,7 @@
+1.Using complete sentences, write three (3) things you learned from the documentary. Three things I learned from the documentary are that you should make your password something unrelated to you if you don't want to be hacked, you shouldn't make your password the same thing for multiple different apps, and the higher the level it is on the attack pyramid the more stress there is.
+
+2.Google search your name, if you've found yourself on google, please describe what you found. Are surprised by what you found? using complete sentences. I found my sound cloud account when I searched up my name. I am suprised by what I found when I searched up my name.
+
+3.Based on what you've learned, what steps would you use to disapear online. Please use complete sentences.I would set up a new account,make my information private, make the password not related to me at all and make it impossible to remember, and put it in password manager so that it doesn't have to be remembered.
+
+4.Name and describe each layer of the privacy pyramid. describe at least 1 way you can protect your privacy at each level. Basic online anonymity:Not much privacy and it allows you to dodge the eyes of Big tech and other digital trackers and also allows you to become hard to track. , Personal cotacts:When you are trying to hide from people who don't understand boundaries. , Organizations:When you are trying to dodge organizations with resources. , Government agencies:You are trying to dissapear online completely.
